@@ -50,7 +50,7 @@ Write me a few anime titles.
 5. Tokyo Ghoul
 ```
 
-*Note: what you see may be different because each time GPT-3 runs, there is randomness injected in the model each time so that the outputs differ.*
+*Note: what you see may be different because each time GPT-3 runs, there is randomness injected in the model so that the outputs differ.*
 
 Pretty cool — these are animes that actually exist. That’s because GPT-3 was trained on a large amount of text on the internet. Be sure to ask it to write you something else (ex. something around movies, music, whatever).
 
